@@ -1,5 +1,5 @@
-31170 Project
-
+31170 Project Proposal updated may 4th
+William Zhu, Kevin Wang
 
 ## Problem Statement
 
