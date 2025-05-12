@@ -1,4 +1,4 @@
-31170 Project Proposal updated may 4th
+31170 Project Proposal updated may 12th, stop continue working
 William Zhu, Kevin Wang
 
 ## Problem Statement
